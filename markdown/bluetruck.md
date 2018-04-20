@@ -2,7 +2,7 @@
 
 ## Where
 
-Outside AB
+Not outside AB (location unknown)
 
 ## How much
 
@@ -12,5 +12,5 @@ $4.00 for italian sausage
 eyJoaXN0b3J5IjpbLTEzMDQ5MTI1MjNdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzMwNTUzMl19
+eyJoaXN0b3J5IjpbMTA3MzA2OTAyMywxNzczMzA1NTMyXX0=
 -->
